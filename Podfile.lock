@@ -1,0 +1,28 @@
+PODS:
+  - LxDBAnything (1.1.0)
+  - Masonry (0.6.4)
+  - ReactiveCocoa (4.0.4-alpha-4):
+    - ReactiveCocoa/UI (= 4.0.4-alpha-4)
+    - Result (~> 1.0)
+  - ReactiveCocoa/Core (4.0.4-alpha-4):
+    - ReactiveCocoa/no-arc
+    - Result (~> 1.0)
+  - ReactiveCocoa/no-arc (4.0.4-alpha-4):
+    - Result (~> 1.0)
+  - ReactiveCocoa/UI (4.0.4-alpha-4):
+    - ReactiveCocoa/Core
+    - Result (~> 1.0)
+  - Result (1.0.2)
+
+DEPENDENCIES:
+  - LxDBAnything
+  - Masonry
+  - ReactiveCocoa (~> 4.0.4-alpha-4)
+
+SPEC CHECKSUMS:
+  LxDBAnything: 154a2ad1ae32e70355d886b5443260543bb60c71
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  ReactiveCocoa: e459ea92099447802df20c4735e31e8139b06094
+  Result: dd3dd71af3fa2e262f1a999e14fba2c25ec14f16
+
+COCOAPODS: 0.39.0
